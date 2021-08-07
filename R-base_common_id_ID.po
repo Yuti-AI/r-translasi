@@ -23,10 +23,10 @@ msgid "'MARGIN' does not match dim(X)"
 msgstr "'MARGIN' tidak sesuai dengan dim(X)"
 
 msgid "'dim' cannot be of length 0"
-msgstr "Panjang 'dim' tidak bias bernilai 0"
+msgstr "Panjang 'dim' tidak bisa bernilai 0"
 
 msgid "'dim' specifies too large an array"
-msgstr ""
+msgstr "'dim' menghasilkan array yang terlalu besar"
 
 msgid "'x' must have named dimnames"
 msgstr "'x' harus memiliki dimnames yang sudah dinamakan"
@@ -49,7 +49,7 @@ msgid "complex matrices not permitted at present"
 msgstr "matriks yang kompleks tidak diizinkan saat ini"
 
 msgid "'x' must be an array of at least two dimensions"
-msgstr ""
+msgstr "'x' harus dalam bentuk array dengan sekurangnya dua dimensi"
 
 msgid "invalid 'dims'"
 msgstr "'dims' tidak valid"
@@ -58,7 +58,7 @@ msgid "not an interactive session"
 msgstr "ini bukan sesi interaktif"
 
 msgid "condition handlers must be functions"
-msgstr ""
+msgstr "kondisi 'handlers' harus fungsi"
 
 msgid "'origin' must be one of 'start', 'current' or 'end'"
 msgstr "'origin' harus berupa 'start', 'current' atau 'end'"
